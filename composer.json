@@ -1,0 +1,25 @@
+{
+	"name": "slim-mvc/test-br",
+    "description": "Lazy-load composer require for Slim-MVC", 
+	"keywords": ["slim MVC framework", "slim","slim route","slim connect","slim conn db","slim4 route","slim4 conn"],
+	"homepage": "https://github.com/PhiHung908",
+    "support": {
+        "issues": "https://github.com/PhiHung908/Slim4-MVC-lazy-load/issues",
+        "source": "https://github.com/PhiHung908/Slim4-MVC-lazy-load.git"
+    },
+	"type": "expand",
+	"license": "MIT",
+	"minimum-stability": "RC",
+	"authors": [
+        {
+            "name": "Phi Hùng",
+            "email": "vmkeyb908@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+        }
+    }
+}
